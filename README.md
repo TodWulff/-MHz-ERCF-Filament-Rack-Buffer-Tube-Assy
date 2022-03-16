@@ -2,7 +2,9 @@
 
 ![~MHz ERCF Filament Rack/Buffer Tube Assy](https://github.com/TodWulff/-MHz-ERCF-Filament-Rack-Buffer-Tube-Assy/blob/main/20220315_233601.jpg)
 
-[The 'buffer tubes' are Betaduct 75mm*25mm solid wall raceways](https://github.com/TodWulff/-MHz-ERCF-Filament-Rack-Buffer-Tube-Assy/blob/main/PN_09240000Y.pdf).  I got a set of 8ea 2m long pieces for roughly $120 from Newark.  The PVC flavor is what I bought.  The Noryl flavor is roughly 5x more expensive - be careful.  Those pictured above are cut to 36" in length.  [Engineering Drawing](https://github.com/TodWulff/-MHz-ERCF-Filament-Rack-Buffer-Tube-Assy/blob/main/betaduct_pvc_solid_wall_75_x_25_drawing.pdf)  [Step File from Cablecraft (OEM}](https://github.com/TodWulff/-MHz-ERCF-Filament-Rack-Buffer-Tube-Assy/blob/main/03-1709.STEP)
+[The 'buffer tubes' are Betaduct 75mm*25mm solid wall raceways](https://github.com/TodWulff/-MHz-ERCF-Filament-Rack-Buffer-Tube-Assy/blob/main/PN_09240000Y.pdf).  I got a set of 8ea 2m long pieces for roughly $120 from Newark.  The PVC flavor is what I bought.  The Noryl flavor is roughly 5x more expensive - be careful.  Those pictured above are cut to 36" in length.  
+- [Engineering Drawing](https://github.com/TodWulff/-MHz-ERCF-Filament-Rack-Buffer-Tube-Assy/blob/main/betaduct_pvc_solid_wall_75_x_25_drawing.pdf)  
+- [Step File from Cablecraft (OEM}](https://github.com/TodWulff/-MHz-ERCF-Filament-Rack-Buffer-Tube-Assy/blob/main/03-1709.STEP)
 
 I cobbled the end cap assy's together in PrusaSlicer (/me != 3D CAD skills).
 
