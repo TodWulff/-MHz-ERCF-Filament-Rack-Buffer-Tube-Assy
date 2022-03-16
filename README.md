@@ -1,5 +1,7 @@
 # ~MHz ERCF Filament Rack/Buffer Tube Array
 
+Being inspired by having drama with the ERCP Filament Buffer assemblies, coupled with watching a [RMU video on Chris's Basement channel](https://www.youtube.com/watch?v=tYeIUff-35k), I decided to undertake the endeavor of fabricobbling a KISS buffer solution that didn't rely on multiple loops of filament.  With that, I present the following to y'all for your consideration of how one gent went about tackling same.
+
 ![~MHz ERCF Filament Rack/Buffer Tube Assy](https://github.com/TodWulff/-MHz-ERCF-Filament-Rack-Buffer-Tube-Assy/blob/main/20220315_233601.jpg)
 
 The 'buffer tubes' are [Betaduct 75mm*25mm solid wall raceways](https://github.com/TodWulff/-MHz-ERCF-Filament-Rack-Buffer-Tube-Assy/blob/main/PN_09240000Y.pdf).  I got a set of [8ea 2m long pieces for roughly $120 from Newark](https://www.newark.com/betaduct/09240000y/solid-wall-duct-pvc-blk-75x25mm/dp/24AJ3284?ICID=I-RP-STM7REC-1).  The PVC flavor is what I bought.  The Noryl flavor is roughly [5x more expensive](https://www.newark.com/betaduct/23473000n/solid-wall-duct-noryl-blk-75x25mm/dp/24AJ3781?ICID=I-RP-STM7REC-1) - be careful.  The buffer tubes pictured above are cut to 36" in length.  
