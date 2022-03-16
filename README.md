@@ -4,15 +4,15 @@
 
 The  'buffer tubes' are Betaduct 75mm*25mm solid wall raceways.  I got a set of 8ea 2m long pieces for roughly $120 from Newark.  The PVC flavor is what I bought.  The Noryl flavor is roughly 5x more expensive - be careful.  Those pictured above are cut to 36" in length.  
 
-(![~MHz Filament Buffer Tube Endcap Assy](https://github.com/TodWulff/-MHz-ERCF-Filament-Rack-Buffer-Tube-Assy/blob/main/bq9zRUO.png)
-
 I cobbled the end cap assy's together in PrusaSlicer (/me != 3D CAD skills).
 
 ![Endcap Platter](https://i.imgur.com/0STDYvz.png)
 
 ![Endcap Sliced](https://i.imgur.com/st7ro1q.png)
 
-Assembled Endcap: https://i.imgur.com/bq9zRUO.png  Each cap needs 2ea PC4-M10, 1ea 608RS Bearing, 1ea M3 Heat insert, 5ea M3x10 screws (4 to attach the hanger halves to the lid, one for the bearing axis).
+(![~MHz Filament Buffer Tube Endcap Assy](https://github.com/TodWulff/-MHz-ERCF-Filament-Rack-Buffer-Tube-Assy/blob/main/bq9zRUO.png)
+
+Each assembled Endcap needs 2ea PC4-M10, 1ea 608RS Bearing, 1ea M3 Heat insert, 5ea M3x10 screws (4 to attach the hanger halves to the lid, one for the bearing axis).
 
 The bowden comb is just extra that I added to the model - ensures that one has more than enough if multiple end caps are printed.
 
@@ -22,7 +22,7 @@ I used a ton of roll-in M5 t-nuts and 2 sets of these to tie it all together: ht
 
 The 4 members holding the buffer tubes are just the left overs from lobbing the lateral pieces down to 650mm, trimmed to length to allow ample spacing between the buffers - I may actually squeeze the buffer wings tighter and trim the metal down more.  tbd.  This was a finalize the design while building evolution.
 
-At the top of each buffer tube, I used this type of bit to plow a hole through on each side (used an extra printed cap as a guide) and then dyked the top of the material away to allow the cap to be slid on/off without having to unscrew anything: https://i.imgur.com/PGYzGqM.png - makes servicing a breeze.
+At the top of each buffer tube, I used this type of bit to plow a hole through on each side (used an extra printed cap as a guide) and then dyked the top of the material away to allow the cap to be slid on/off without having to unscrew anything - makes servicing a breeze.
 
 ![Buffer Tube - Endcap Interface](https://i.imgur.com/PGYzGqM.png)
 
