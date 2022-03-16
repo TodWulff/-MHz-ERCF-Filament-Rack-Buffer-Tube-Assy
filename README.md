@@ -6,13 +6,13 @@
 - [Engineering Drawing](https://github.com/TodWulff/-MHz-ERCF-Filament-Rack-Buffer-Tube-Assy/blob/main/betaduct_pvc_solid_wall_75_x_25_drawing.pdf)  
 - [Step File from Cablecraft (OEM}](https://github.com/TodWulff/-MHz-ERCF-Filament-Rack-Buffer-Tube-Assy/blob/main/03-1709.STEP)
 
-I cobbled the end cap assy's together in PrusaSlicer (/me != 3D CAD skills).
+I cobbled the [endcap assy's together in PrusaSlicer](https://github.com/TodWulff/-MHz-ERCF-Filament-Rack-Buffer-Tube-Assy/blob/main/MHzBufferTubeEndCapAssy.3mf) (/me != 3D CAD skills).
 
 ![Endcap Platter](https://i.imgur.com/0STDYvz.png)
 
 ![Endcap Sliced](https://i.imgur.com/st7ro1q.png)
 
-(![~MHz Filament Buffer Tube Endcap Assy](https://github.com/TodWulff/-MHz-ERCF-Filament-Rack-Buffer-Tube-Assy/blob/main/bq9zRUO.png)
+![~MHz Filament Buffer Tube Endcap Assy](https://github.com/TodWulff/-MHz-ERCF-Filament-Rack-Buffer-Tube-Assy/blob/main/bq9zRUO.png)
 
 Each assembled Endcap needs 2ea PC4-M10, 1ea 608RS Bearing, 1ea M3 Heat insert, 5ea M3x10 screws (4 to attach the hanger halves to the lid, one for the bearing axis).
 
