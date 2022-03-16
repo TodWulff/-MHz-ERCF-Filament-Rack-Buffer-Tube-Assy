@@ -22,7 +22,7 @@ For the frame, I ordered a set of [10ea 1000mm lengths of 2020](https://www.amaz
 
 I used a ton of [roll-in M5 t-nuts](https://www.amazon.com/gp/product/B07VHNGBWJ) and 2 sets of these to tie it all together: https://smile.amazon.com/KOOTANS-Bracket-Connection-Aluminum-Profile/dp/B07RPT9X8X , along with a set of these for the top of the verticals: https://smile.amazon.com/Befenybay-Connector-Aluminum-Extrusion-2020s-Black/dp/B092YS1SX3.
 
-The 4 members holding the buffer tubes are just the left overs from lobbing the lateral pieces down to 650mm, trimmed to length to allow ample spacing between the buffers - I may actually squeeze the buffer wings tighter and trim the metal down more - tbd - this was a finalize the design while building evolution.
+The 4 members holding the buffer tubes are just the left overs from lobbing the lateral pieces down to 650mm, trimmed to length to allow ample spacing between the buffers - I may actually squeeze the buffer wings tighter and trim the metal down more - tbd - this was a **finalize-the-design-while-building** evolution.
 
 At the top of each buffer tube, I used this type of bit to plow a hole through on each side (used an extra printed cap as a guide) and then dyked the top of the material away to allow the cap to be slid on/off without having to unscrew anything - makes servicing a breeze.
 
