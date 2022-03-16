@@ -1,4 +1,4 @@
-# ~MHz ERCF Filament Rack/Buffer Tube Assy
+# ~MHz ERCF Filament Rack/Buffer Tube Array
 
 ![~MHz ERCF Filament Rack/Buffer Tube Assy](https://github.com/TodWulff/-MHz-ERCF-Filament-Rack-Buffer-Tube-Assy/blob/main/20220315_233601.jpg)
 
