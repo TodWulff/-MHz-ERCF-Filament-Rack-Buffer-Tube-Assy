@@ -1,6 +1,6 @@
 # ~MHz ERCF Filament Rack/Buffer Tube Assy
 
-![~MHz ERCF Filament Rack/Buffer Tube Assy](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![~MHz ERCF Filament Rack/Buffer Tube Assy](https://github.com/TodWulff/-MHz-ERCF-Filament-Rack-Buffer-Tube-Assy/blob/main/20220315_233601.jpg)
 
 The  'buffer tubes' are Betaduct 75mm*25mm solid wall raceways.  I got a set of 8ea 2m long pieces for roughly $120 from Newark.  The PVC flavor is what I bought.  The Noryl flavor is roughly 5x more expensive - be careful.  Those pictured above are 36" in length.  
 
