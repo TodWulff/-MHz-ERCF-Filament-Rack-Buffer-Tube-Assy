@@ -1,5 +1,7 @@
 # ~MHz ERCF Filament Rack/Buffer Tube Assy
 
+![~MHz ERCF Filament Rack/Buffer Tube Assy](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 The  'buffer tubes' are Betaduct 75mm*25mm solid wall raceways.  I got a set of 8ea 2m long pieces for roughly $120 from Newark.  The PVC flavor is what I bought.  The Noryl flavor is roughly 5x more expensive - be careful.  Those pictured above are 36" in length.  
 
 I cobbled the end cap assy's together in PrusaSlicer (/me != 3D CAD skills).  Assembled Endcap: https://i.imgur.com/bq9zRUO.png  Each cap needs 2ea PC4-M10, 1ea 608RS Bearing, 1ea M3 Heat insert, 5ea M3x10 screws (4 to attach the hanger halves to the lid, one for the bearing axis).
