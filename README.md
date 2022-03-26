@@ -39,19 +39,24 @@ Note:  Expect to have to do some post processing - I am printing ABS fast with a
 EDIT:  I've decided to create and add another .3mf Prusa Slicer project file to add filament guides that aid in preventing the filament from coming off of the buffer wheel - hasn't happened again, but could and wanted a robust solution for y'all.  This should address the one-time issue I observed.  The only BOM change is the buffer bearing axle screw - a M3x16 BHCS is now required.  The M3 heat insert now gets installed in one of the guide halves (the one without the screw head recess) and serves to secure the stack (filament guide half, buffer hanger half, buffer with bearing, buffer hanger half, filament guide half (with heat insert)).  Pay attention to the orientation of the filament guides WRT the buffer tube, as one side is tapered by design (goes on the cap side of the buffer tube).
 
 Filament Guides Slicer Images:
-![layout](https://i.imgur.com/YE7b9Vq.png)  
+
+![layout](https://i.imgur.com/YE7b9Vq.png) 
 ![sliced](https://i.imgur.com/QAfh2am.png)
 
 Assembly Images Cap, PC4-M10s, Wheel Hanger, Buffer Wheel, and Filament Guides:
 
 Before/After Filament Guide Assy
+
 ![Before/After Filament Guide Assy](https://i.imgur.com/1SOieQP.png)
 
 Post assembly closeup
+
 ![Post assembly closeup](https://i.imgur.com/ofsMbkd.png)
 
 Completed assembly with guides fitted into the buffer tube (buffer still spins easy enough)
+
 ![Fitted into the buffer tube](https://i.imgur.com/8xtK8fZ.png)
 
 Endcap Printing takes a while...
+
 ![Endcap Printing takes a while...](https://i.imgur.com/LFh2irl.png)
