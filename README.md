@@ -1,6 +1,6 @@
-## ~MHz ERCF Filament Rack/Buffer Tube Array
+# ~MHz ERCF Filament Rack/Buffer Tube Array
 
-# (see bottom section for details on a recent mod to add filament guide 'ramps' to ensure filament doesn't miss the buffer wheel when the buffer empties)
+## (see bottom section for details on a recent mod to add filament guide 'ramps' to ensure filament doesn't miss the buffer wheel when the buffer empties)
 
 Being inspired by having drama with the ERCP Filament Buffer assemblies, coupled with watching a [RMU video on Chris Riley's youtube channel](https://youtu.be/tYeIUff-35k?t=219), I decided to undertake the endeavor of fabricobbling a KISS buffer solution that didn't rely on multiple loops of filament.  With that, I present the following to y'all for your consideration of how one gent went about tackling same.  This solution provides ~1750mm of filament buffer for each filament channel (12 channel solution pictured here).
 
