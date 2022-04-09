@@ -20,7 +20,7 @@ I cobbled the [endcap assy's together in PrusaSlicer](https://github.com/TodWulf
 
 Each assembled Endcap needs 2ea [PC4-M10](https://www.amazon.com/ExcelFu-Straight-Pneumatic-Connector-Long-Distance/dp/B07P2XRCC1), 1ea [608RS Bearing](https://www.amazon.com/gp/product/B073ST742Z), 1ea M3 Heat insert, 4ea M3x10 screws (to attach the hanger halves to the lid) and 1ea M3x16 screw for the bearing axis - to tie the stack of parts together.
 
-The bowden comb is an extra that I added to the model - ensures that one has more than enough if multiple end caps are printed.
+The bowden comb is an extra that I added to the model - ensures that one has more than enough if multiple end caps are printed.  Also, on the ERCPs, using a piece of filament as the axis that the PC4-M10 coupler/holder slides on is a design choice that I find substandard. I ended up using jobber length 1.75mm drill bits - works well...
 
 For the frame, I ordered a set of [10ea 1000mm lengths of 2020](https://www.amazon.com/Montex-Aluminum-Extrusion-European-Standard/dp/B093FDT2QN), in addition to a couple additional pieces I had stock on - used for the bottom anti-tip supports - printed feet/end caps (sharp edges will cut a toe or three off).  The 4 up rights are 1000mm, the lateral pieces are 650-ish mm.
 
