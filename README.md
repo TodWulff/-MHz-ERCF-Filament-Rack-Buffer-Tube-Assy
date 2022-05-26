@@ -1,5 +1,7 @@
 # ~MHz ERCF Filament Rack/Buffer Tube Array
 
+## Per user request, I went ahead and created STLs from gcode generated from the project file.  Hopefully these will work with little to no issue.  Let me know, please.  TIA
+
 ## (see bottom section for details on a recent mod to add filament guide 'ramps' to ensure filament doesn't miss the buffer wheel when the buffer empties)
 
 Being inspired by having drama with the ERCP Filament Buffer assemblies, coupled with watching a [RMU video on Chris Riley's youtube channel](https://youtu.be/tYeIUff-35k?t=219), I decided to undertake the endeavor of fabricobbling a KISS buffer solution that didn't rely on multiple loops of filament.  With that, I present the following to y'all for your consideration of how one gent went about tackling same.  This solution provides ~1750mm of filament buffer for each filament channel (12 channel solution pictured here).
@@ -58,6 +60,10 @@ Post assembly closeup
 Completed assembly with guides fitted into the buffer tube (buffer still spins easy enough)
 
 ![Fitted into the buffer tube](https://i.imgur.com/8xtK8fZ.png)
+
+![parts stack](https://i.imgur.com/jHhX5tY.png)
+
+Each buffer tube assy will need, 1ea length of buffer tube cut from the betaduct lengths (36" is good), 1ea Cap, 2ea Hanger Halves, 1ea Buffer Wheel, and 1ea of Guide A and Guide B, along with the bearing, 2ea PC4-M10 couplers, and other hardware spoken to above (4+1 screws and 1 M3 heat insert)(.
 
 Endcap Printing takes a while...
 
